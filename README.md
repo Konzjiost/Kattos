@@ -72,4 +72,4 @@ Examples:
 
 - [RastaMouse - Token Impersonation in C#](https://rastamouse.me/token-impersonation-in-csharp/)
 - [MITRE ATT&CK - T1134.001](https://attack.mitre.org/techniques/T1134/001/)
-- -[ASCII](https://www.asciiart.eu/art/8e03bfe9f5b3c218)
+- [ASCII Art](https://www.asciiart.eu/art/8e03bfe9f5b3c218)
